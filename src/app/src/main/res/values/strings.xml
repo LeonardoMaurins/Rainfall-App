@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Rainfall App</string>
+    <string name="text_location">Location: </string>
+    <string name="hint_location">Swords, Dublin, etc...</string>
+    <string name="text_days">Days: </string>
+    <string name="hint_days">4, 7, 12, etc...</string>
+    <string name="button_location">Use my location</string>
+    <string name="text_rain">Rain: </string>
+    <string name="button_forecast">Get Forecast</string>
+    <string name="button_preferences">Save Preferences</string>
+    <string name="text_daysForecast">Days Forecast: </string>
+    <string name="button_alarm">Set Alarm</string>
+
+    <string name="alarm_title">Please set an alarm for daily forecast notifications</string>
+    <string name="alarm_button_open">Set Alarm</string>
+    <string name="alarm_button_cancel">Cancel Alarm</string>
+
+    <string name="listview_location">Location: </string>
+    <string name="listview_description">Description: </string>
+    <string name="listview_date">Date: </string>
+    <string name="listview_precipitation">Precipitation: </string>
+    <string name="listview_temp">  °C</string>
+
+    <string name="notification_name">NotificationService</string>
+    <string name="notification_id">channelid</string>
+    <string name="notification_title">Notification Title</string>
+    <string name="notification_description">Notification Description</string>
+</resources>
