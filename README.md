@@ -22,8 +22,8 @@ If you wish to try the application, download and install the "Rainfall-app.apk" 
 
 ## Screenshots
 
-<img src="https://imgur.com/PZWjTJD" style="padding:5px"> 
-<img src="https://imgur.com/ocWRFmE" style="padding:5px"> 
-<img src="https://imgur.com/B04UBkW" style="padding:5px"> 
-<img src="https://imgur.com/eV48gGx" style="padding:5px"> 
-<img src="https://imgur.com/6D8Mfeq" style="padding:5px"> 
+<img src="https://i.imgur.com/PZWjTJD.png" style="padding:5px"> 
+<img src="https://i.imgur.com/ocWRFmE.png" style="padding:5px"> 
+<img src="https://i.imgur.com/B04UBkW.png" style="padding:5px"> 
+<img src="https://i.imgur.com/eV48gGx.png" style="padding:5px"> 
+<img src="https://i.imgur.com/6D8Mfeq.png" style="padding:5px"> 
